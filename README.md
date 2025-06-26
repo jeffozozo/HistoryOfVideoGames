@@ -1,4 +1,4 @@
-# History of Video Games - Lecture Plan
+# History of Video Games
 
 ## Course Format
 - **Credits**: 3
