@@ -92,13 +92,13 @@
 *homework*: pick a genre and write about the important elements. What makes a good 'platformer' ?
 
 ### Week 11: Game Design Workshop
-- **Lecture 11.1**: Player Motivation – Flow, Bartle Types, Agency
+- **Lecture 11.1**: Game Engagement – Flow, Story, Agency, Game Elements, Goals
 - **Lecture 11.2**: Tinker-RPG Editor – Demo & First Design Exercise  
   *Start work on game*  
   *Come up with style, story and context*  
   *Think about the goal of the game*
   
-  *homework*: write about and submit your ideas
+  *homework*: write about and submit your ideas. Submit early game structure, plans for additional assets.
 
 ### Week 12: Cultural Reflection
 - **Lecture 12.1**: Games and Identity – Politics, Gender, National Culture
@@ -113,6 +113,7 @@
 - **Lecture 13.2**: Narrative – Lore, Worldbuilding, Branching Paths  
   *Play & Discuss*  
   *Build more assets for your game*
+
   *homework*: develop v 0.2 of your game - it doesn't need to be playable. submit it.
 
 ### Week 14: Systemic Games and Competitive Play
@@ -145,4 +146,4 @@
 
 ### Week 16: Final Projects & Reflection
 - **Lecture 16.1**: Student Game Showcase
-- **Lecture 16.2**: What We’ve Learned – Wrap-Up & Discussion
+- **Lecture 16.2**: Final Exam Review
