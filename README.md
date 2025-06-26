@@ -52,7 +52,7 @@
 - **Lecture 5.1**: NES, Zelda, Donkey Kong -> Mario, Birth of First Person Shooters, *StarCraft*, *Doom*, *Quake*, *myst*  
   *Note*: FPS enemies (*Doom*) begin to use sound detection and pathfinding  
   *StarCraft* AI and asymmetrical AI scripting – cheating to simulate human challenge
-- **Lecture 5.2**: Bits, MHz, and Controllers - joysticks, light gun, track ball  
+- **Lecture 5.2**: 8 Bits, 16 Bits, 32 Bits, MHz, Handhelds, Controller Evolution - joysticks, light gun, track ball  
   *Dragon's Lair*, *Duck Hunt*, *Crossbow*, *Missile Command*
 
 *homework*: play zelda on an emulator, play doom? Can we figure out how to play with a light gun?
