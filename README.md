@@ -20,9 +20,11 @@
 ## Weekly Topics
 
 ### Week 1: Introduction to Games
-- **Lecture 1.1**: What is a Game? – Definitions, Fun, and Human Nature
-- **Lecture 1.2**: Why Do Humans Play? – Psychology and Anthropology of Play  
-  *Class Activity*: Non-digital social game with tokens/marbles/guesses
+- **Lecture 1.1**: What is a Game? – Definitions, Fun, and Human Nature, Why Do Humans Play? – Psychology and Anthropology of Play
+    *Class Activity*: Non-digital social game with tokens/marbles/guesses
+  
+- **Lecture 1.2**: Intro to digital machines and evolution of computers. Basic overview of how computers work. Computer input and output 
+
 
 ### Week 2: Origins (1940s–1960s)
 - **Lecture 2.1**: Analog and Early Digital Games – *Tennis for Two*, *Spacewar!*
