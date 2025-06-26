@@ -26,6 +26,7 @@
   
 - **Lecture 1.2**: Intro to digital machines and evolution of computers. Basic overview of how computers work. Computer input and output 
 
+*homework*: get access to a computer where you can install stuff. 
 
 ### Week 2: Origins (1940s–1960s)
 - **Lecture 2.1**: Analog and Early Digital Games – *Tennis for Two*, *Spacewar!*
