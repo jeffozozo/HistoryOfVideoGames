@@ -3,7 +3,7 @@
 ## Course Format
 - **Credits**: 3
 - **Schedule**: Two 1:15 lectures per week
-- **Midterm**: Week 9
+- **Homework**: Play and review video games. Write papers, build assets. Maybe some quizzes
 - **Final Project**: Simple game using a no-code Python-based RPG builder
 
 ## Learning Outcomes
@@ -26,34 +26,44 @@
 
 ### Week 2: Origins (1940s–1960s)
 - **Lecture 2.1**: Analog and Early Digital Games – *Tennis for Two*, *Spacewar!*
-- **Lecture 2.2**: Mainframes & CRTs – PDP-11, Oscilloscopes, Academic Games
+- **Lecture 2.2**: Mainframes & CRTs – PDP-11, Oscilloscopes, Academic Games  
+  *Sidebar*: Early chess AI as the root of game AI – Claude Shannon's 1950 proposal to make computers "think"
 
 ### Week 3: Home Console Revolution (1970s)
 - **Lecture 3.1**: Pong and Atari – Cartridge Innovation
 - **Lecture 3.2**: Memory Constraints & Simplicity – *Adventure*, *Pitfall*  
-  *Homework*: Play Atari games via emulator + journal reflection
+  *Homework*: Play Atari games via emulator + write about it  
+  *Sidebar*: *Pac-Man* (1980) and ghost AI personalities – how pathfinding and behavior rules shaped difficulty and predictability
 
 ### Week 4: Arcade Boom & Home Computers (1980s)
 - **Lecture 4.1**: Arcade Classics – *Joust*, *Star Wars*, *Donkey Kong*
 - **Lecture 4.2**: Apple II Games – *Ultima*, *Choplifter*, *Lode Runner*, *Karateka*  
-  *Homework*: Emulated play + reflection
+  *Homework*: Emulated play + write about it
 
-### Week 5: Bit Wars and Game Hardware
-- **Lecture 5.1**: NES, Zelda – Worldbuilding and Design
-- **Lecture 5.2**: Bits, MHz, and Controllers – *Dragon's Lair*, *Duck Hunt*
+### Week 5: Bit Wars, LAN Parties and Game Consoles (1990s)
+- **Lecture 5.1**: NES, Zelda, Birth of First Person Shooters, *StarCraft*, *Doom*, *Quake*  
+  *Note*: FPS enemies (*Doom*) begin to use sound detection and pathfinding  
+  *StarCraft* AI and asymmetrical AI scripting – cheating to simulate human challenge
+- **Lecture 5.2**: Bits, MHz, and Controllers - joysticks, light gun, track ball  
+  *Dragon's Lair*, *Duck Hunt*, *Crossbow*, *Missile Command*
 
 ### Week 6: Game Design Fundamentals
 - **Lecture 6.1**: What Makes Games Great? – Graphics, Music, Mechanics, Story
-- **Lecture 6.2**: Arcades vs. Consoles – Social Gaming and Its Decline
+- **Lecture 6.2**: Arcades vs. Consoles, PCs – Social Gaming and Its Evolution
 
-### Week 7: 2000s Spectacle & Home Games
-- **Lecture 7.1**: Epic Games – *Halo*, *GTA*, *Skyrim*, *Mass Effect*
-- **Lecture 7.2**: Physical Play – *DDR*, *Wii Sports*, *Guitar Hero*  
-  *Class Activity*: Wii or Rock Band dance challenge
+### Week 7: 2000s The internet, MMOG & Home Games
+- **Lecture 7.1**: Big Budget Games – *Halo*, *Oblivion*, *Grand Theft Auto*, *Half-Life*, *Call of Duty*  
+  *Note*: *Halo* enemy AI – flanking, retreating, cooperating  
+  *F.E.A.R.* introduces tactical AI that uses cover, suppressive fire, and vaulting
+- **Lecture 7.2**: Physical Play – *Wii Sports*, *Guitar Hero*, *Dance Dance Revolution*  
+  *Class Activity*: Wii Just Dance or Rock Band challenge  
+  *Invention of DRM – physical media and updates*  
+  *Video games surpass film in revenue*
 
-### Week 8: 2010s and Modern Arcades
-- **Lecture 8.1**: DRM, Steam, and the Shift to Digital
-- **Lecture 8.2**: Arcade Reinvention – Nickelcade, Ride-style Games, VR
+### Week 8: 2010s Transformation of Online Games and Mobile
+- **Lecture 8.1**: *GTA* and *Skyrim* – Immersive Worlds, Modding, and Cinematic Storytelling
+- **Lecture 8.2**: *Fortnite* and *Clash Royale* – Games as Service, Competitive Mobile, and Digital Ecosystems  
+  *Look how far we've come in just 20 years*
 
 ### Week 9: Midterm
 - **Lecture 9.1**: Review – Technology, Design, Psychology
@@ -65,27 +75,43 @@
 
 ### Week 11: Game Design Workshop
 - **Lecture 11.1**: Player Motivation – Flow, Bartle Types, Agency
-- **Lecture 11.2**: Tinker-RPG Editor – Demo & First Design Exercise
+- **Lecture 11.2**: Tinker-RPG Editor – Demo & First Design Exercise  
+  *Start work on game*  
+  *Come up with style, story and context*  
+  *Think about the goal of the game*
 
 ### Week 12: Cultural Reflection
 - **Lecture 12.1**: Games and Identity – Politics, Gender, National Culture
-- **Lecture 12.2**: Controversy and Censorship – *Mortal Kombat*, ESRB
+- **Lecture 12.2**: Controversy and Censorship – *Mortal Kombat*, ESRB, DRM, Steam  
+  *Talk about evolution of eSports*  
+  *Plan and build for your game: character, bad guys, objective and objects*
 
 ### Week 13: Games as Art
 - **Lecture 13.1**: Visual Style and Sound – Pixel Art, Music, Architecture
 - **Lecture 13.2**: Narrative – Lore, Worldbuilding, Branching Paths  
-  *Play & Discuss*: *Journey*, *Inside*, *Papers Please*
+  *Play & Discuss*  
+  *Build assets for your game*
 
-### Week 14: Systemic Games
-- **Lecture 14.1**: Simulation and Sandbox – *SimCity*, *Dwarf Fortress*
-- **Lecture 14.2**: Procedural Generation & AI
+### Week 14: Systemic Games and Competitive Play
+- **Lecture 14.1**: Systems & Survival – *Minecraft*, *Don't Starve*, and Emergent Gameplay  
+  - How survival games use rules, crafting, and resource scarcity  
+  - Player-created narratives and sandbox freedom  
+  - Contrast with linear/scripted games
+- **Lecture 14.2**: Competitive Systems and eSports  
+  - *StarCraft*, *League of Legends*, *Counter-Strike*, *Heroes of the Storm*  
+  - Streaming, spectatorship, and the rise of professional gaming  
+  - *Note*: Matchmaking and balancing often driven by AI algorithms
 
 ### Week 15: AI, Virtual Reality, and the Future of Video Games
 - **Lecture 15.1**: Artificial Intelligence in Games  
-  - History of AI in games (*Pac-Man*, *F.E.A.R.*)  
+  - Timeline of AI in games:  
+    - *Pac-Man* (1980): ghost personalities  
+    - *Doom*, *Half-Life*, *Halo*, *F.E.A.R.*: reactive and squad AI  
+    - *Left 4 Dead*: AI Director  
+    - *Shadow of Mordor*: Nemesis system  
+    - *StarCraft II AlphaStar* and *Chess AlphaZero*: superhuman AI without cheating  
   - Procedural generation, NPC behavior, machine learning in game testing  
   - Ethical concerns with AI-generated content
-
 - **Lecture 15.2**: VR, AR, and the Future of Immersive Play  
   - History of VR, current systems (Quest, PSVR, SteamVR)  
   - Augmented reality games, accessibility, haptics, brain-computer interfaces
