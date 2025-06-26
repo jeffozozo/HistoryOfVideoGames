@@ -2,7 +2,7 @@
 
 ## Course Format
 - **Credits**: 3
-- **Schedule**: Two 1:15 lectures per week
+- **Format**: Two 1:15 lectures per week
 - **Homework**: Play and review video games. Write papers, build assets. Maybe some quizzes
 - **Final Project**: Simple game using a no-code Python-based RPG builder
 
